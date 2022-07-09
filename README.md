@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khal0000
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Time Series Machine Learning, SQL, TABLEU
+- 🌱 I’m currently learning Python, Machine Learning, SQL, and TABLEU
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me khalisulakbar@gmail.com
 
