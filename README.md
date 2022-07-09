@@ -9,6 +9,7 @@ Khal0000/Khal0000 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khal0000&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khal0000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
