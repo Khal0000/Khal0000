@@ -15,7 +15,7 @@
 
 - 🙋‍♂️ I'm Khalisul Akbar
 - 👀 I’m interested in Data Science, Data Analytics, and Trading
-- 🌱 I’m currently learning Python, Machine Learning, Deep Learning, SQL, and Tableau
+- 🌱 I’m currently focusing on Python, Machine Learning, Deep Learning, SQL, and Tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me khalisulakbar@gmail.com
 
